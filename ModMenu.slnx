@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/mods/">
+    <Project Path="mods/ModMenu/ModMenu.csproj" />
+    <Project Path="mods/ModMenu.Patcher/ModMenu.Patcher.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ModMenu.Tests/ModMenu.Tests.csproj" />
+  </Folder>
+</Solution>

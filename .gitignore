@@ -1,0 +1,10 @@
+bin/
+obj/
+_ref/
+dist/
+*.user
+.vs/
+_backups/
+
+cloud/*/site/
+.wrangler/
